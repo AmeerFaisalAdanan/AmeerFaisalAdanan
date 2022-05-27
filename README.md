@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/AmeerFaisalAdanan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerFaisalAdanan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-
+</br>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-PHP-000?&logo=PHP)
