@@ -6,16 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) Projects
-- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+🔭 I’m currently working on ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) Projects
+🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 <a href="https://github-readme-stats.vercel.app/api?username=AmeerFaisalAdanan&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmeerFaisalAdanan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+
+</br>
+
 <a href="https://github.com/AmeerFaisalAdanan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerFaisalAdanan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-</br>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-PHP-000?&logo=PHP)
