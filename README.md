@@ -1,6 +1,8 @@
-### Hi there! My name is Muhammad Ameer Faisal Bin Adanan. Welcome to my github profile. I am a fullstack web developer developing mostly on ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) . Feel free to approach me on 
+### Hi there! My name is Muhammad Ameer Faisal Bin Adanan. Welcome to my github profile. I am a fullstack web developer developing mostly on ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) . 
 
-  -  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)
+Feel free to approach me on
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn) <a href="https://www.linkedin.com/in/ameer-faisal-540629144/">
 
 <a href="https://github-readme-stats.vercel.app/api?username=AmeerFaisalAdanan&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmeerFaisalAdanan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
