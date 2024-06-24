@@ -1,5 +1,8 @@
 # 💫 About Me:
-Assalamualaikum and hello everyone. I am a software developer/engineer from Malaysia. <br>I have been working on mostly web development, mainly PHP and Laravel as my tools of trade.<br>Right now I am learning and focusing on implementing Continous Integration and Continous Deliver<br>for my organization for every current project. Aside from CI/CD, I also working on side project to learn new framework and tools.<br>
+I am a software developer/engineer from Malaysia. <br>I have been working on mostly web development, mainly PHP and Laravel as my tools of trade.<br>Right now I am learning and focusing on implementing Continous Integration and Continous Deliver<br>for my organization for every current project. Aside from CI/CD, I also working on side project to learn new framework and tools.<br>
+
+# Download my portfolio here
+[portfolio.pdf](https://github.com/user-attachments/files/15956727/portfolio.pdf)
 
 
 # 💻 Tech Stack:
@@ -19,3 +22,5 @@ Assalamualaikum and hello everyone. I am a software developer/engineer from Mala
 [![](https://visitcount.itsvg.in/api?id=AmeerFaisalAdanan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
