@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a Software Developer based in Malaysia with a strong focus on web development, primarily using PHP and the Laravel framework as my core technologies.
+I am a Software Developer based in Malaysia with a strong foundation in web development. While I have worked extensively with PHP and the Laravel framework, I take a language-agnostic approach to development and have experience working with Python and Bash scripting for automation, tooling, and backend tasks.
 
-Currently, I am dedicating my efforts to implementing Continuous Integration (CI) and Continuous Delivery (CD) practices across all ongoing projects within my organization. This initiative aims to improve our deployment workflow, code quality, and overall development efficiency.
+Currently, I am focused on implementing Continuous Integration (CI) and Continuous Delivery (CD) practices across all active projects in my organization—enhancing deployment workflows, code quality, and development efficiency.
 
-In addition to my professional work, I actively pursue side projects to explore new frameworks and tools. This continuous learning approach allows me to stay current with modern development practices and expand my technical skill set.
+Outside of my core responsibilities, I regularly engage in side projects to explore new frameworks, tools, and programming languages. This ongoing learning helps me stay adaptable and effective across a range of technologies and problem domains.
 
 # Download my portfolio here
 [portfolio.pdf](https://github.com/user-attachments/files/15956727/portfolio.pdf)
